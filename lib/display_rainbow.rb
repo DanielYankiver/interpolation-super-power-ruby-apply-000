@@ -1,6 +1,5 @@
 # Write your #display_rainbow method here
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
   print "R: #{[0]}, "
@@ -12,4 +11,4 @@ def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'viol
   print "V: #{[6]}, "
 end 
 
-display_rainbow(colors)
+display_rainbow
